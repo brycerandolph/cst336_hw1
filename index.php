@@ -12,7 +12,7 @@
         </header>
         <hr />
       <nav>
-            <a style="color: navy;" href="index.html">Home</a>
+            <a style="color: navy;" href="index.php">Home</a>
             <a href="hdd.html">HDD</a>
             <a href="ssd.html">SSD</a>
             <a href="sshd.html">SSHD</a>
